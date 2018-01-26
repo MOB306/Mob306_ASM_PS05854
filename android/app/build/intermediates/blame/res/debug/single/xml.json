@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rs/Project/PPLUS/ReactN/Demo_app_train2/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/rs/Project/PPLUS/ReactN/Demo_app_train2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/rs/Project/MOB306/Mob306_ASM_PS05854/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/rs/Project/MOB306/Mob306_ASM_PS05854/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    }
+]

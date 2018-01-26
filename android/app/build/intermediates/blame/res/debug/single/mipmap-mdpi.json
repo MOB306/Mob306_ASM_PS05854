@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rs/Project/MOB306/Mob306_ASM_PS05854/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/rs/Project/MOB306/Mob306_ASM_PS05854/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rs/Project/PPLUS/ReactN/Demo_app_train2/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/rs/Project/PPLUS/ReactN/Demo_app_train2/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

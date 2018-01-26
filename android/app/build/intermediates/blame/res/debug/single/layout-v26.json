@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rs/Project/PPLUS/ReactN/Demo_app_train2/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/home/rs/Project/PPLUS/ReactN/Demo_app_train2/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/rs/Project/MOB306/Mob306_ASM_PS05854/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/home/rs/Project/MOB306/Mob306_ASM_PS05854/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]
